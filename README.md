@@ -1,4 +1,4 @@
-# Como fazer a autenticdação
+# Como fazer a autenticação e autorização
 
 
 ## faça um request para registrar um user
