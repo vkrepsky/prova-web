@@ -1,7 +1,7 @@
-#Como fazer a autenticdação
+# Como fazer a autenticdação
 
 
-##faça um request para registrar um user
+## faça um request para registrar um user
 
 http://localhost:8080/RestAPIFurb/auth/sign-up
 
